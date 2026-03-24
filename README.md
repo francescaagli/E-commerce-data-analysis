@@ -8,4 +8,4 @@ Online Retail Dataset (kaggle)
 
 ## Repository files
 - `analysis.ipynb` - Jupyter notebook with the analysis.
-- `data.zip` - contains the CSV file with the dataset.
+- `data.zip` - contains the CSV dataset file.
