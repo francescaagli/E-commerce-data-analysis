@@ -7,5 +7,5 @@ This project briefly analyzes customer purchasing behavior using a real-world e-
 Online Retail Dataset (kaggle)
 
 ## Repository files
-- `analysis.ipynb` – Jupyter notebook with the analysis.
+- `analysis.ipynb` - Jupyter notebook with the analysis.
 - `data.csv` - CSV file with the dataset.
